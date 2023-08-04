@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x58o5bq23itd5wqu?svg=true)](https://ci.appveyor.com/project/av-perova/at-4)
